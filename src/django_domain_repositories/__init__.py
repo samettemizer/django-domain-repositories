@@ -1,0 +1,1 @@
+default_app_config = "django_domain_repositories.apps.DomainRepositoriesConfig"
